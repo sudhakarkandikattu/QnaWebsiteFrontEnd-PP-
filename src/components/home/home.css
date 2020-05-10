@@ -1,0 +1,37 @@
+.AskQ {
+  padding-left: 10px;
+}
+.Question {
+  padding-left: 10px;
+  font-size: 26px;
+}
+.Nav_link:link {
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1.6rem;
+  text-decoration: none;
+}
+.Nav_link:visited {
+  color: #fff;
+}
+.Nav_link:hover {
+  color: rgb(85, 148, 231);
+}
+.Nav_link:active {
+  color: teal;
+}
+.Nav_link1:link {
+  color: #007bce;
+  font-size: 1.6rem;
+  line-height: 1.6rem;
+  text-decoration: none;
+}
+.Nav_link1:visited {
+  color: #007bce;
+}
+.Nav_link1:hover {
+  color: rgb(0, 0, 0);
+}
+.Nav_link1:active {
+  color: #007bce;
+}

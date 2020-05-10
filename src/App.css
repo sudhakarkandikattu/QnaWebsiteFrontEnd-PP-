@@ -1,0 +1,24 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.rectangle {
+  height: 500px;
+  width: 700px;
+  color: white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 7px;
+  border-left: 10px;
+  overflow-y: scroll;
+}
+.link {
+  text-decoration: none;
+}
+
